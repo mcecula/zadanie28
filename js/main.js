@@ -1,4 +1,4 @@
-let nr = 2;
+let nr = 12;
 if (nr == 12) {
     console.log('Podana liczba jest większa od 10');
 } else {
